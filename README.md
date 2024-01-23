@@ -2,9 +2,7 @@
 
 
 
-https://github.com/ucsb-cs156-w24/jpa02-alexanderthomasucsb
-
-Repo: https://ucsb-cs156-w24/STARTER-jpa02
+Repo: https://github.com/ucsb-cs156-w24/jpa02-alexanderthomasucsb
 
 
 
